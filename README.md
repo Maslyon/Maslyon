@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Industrial Engineer &amp; Developer</b> · Istanbul, Türkiye<br/>
-  I optimize processes and build the software that makes them run better.
+  Process optimization · Supply chain · Business development · Software · LLMs
 </p>
 
 <p align="center">
@@ -11,39 +11,48 @@
   <a href="https://x.com/maslyonR"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.instagram.com/ibo.boi"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/@maslyon"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-maslyon-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img alt="Discord: maslyon" src="https://img.shields.io/badge/Discord-maslyon-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 ---
 
 ## About
 
-I'm an industrial engineer with a Computer Programming background. I analyze a process end to end, find where it loses time or money, and then build the report, model or tool that fixes it. My work so far sits in **business development, supply chain and production operations**, where I've handled process analysis, reporting standards and communication between departments.
+I'm an **industrial engineer** (Bahçeşehir University, class of 2026) with a **Computer Programming** background (Kocaeli University), based in **Istanbul, Türkiye**. I look at a process end to end, find where it loses time, money or quality, and then build the analysis, report or tool that fixes it.
 
-My current focus is **large language models**: how they are trained and fine-tuned, and how to run them efficiently.
+My internships so far span **production operations, business development and manufacturing engineering** at Shell, Derimod and Timsan GSE. That gave me a practical view of how supply chains, reporting and cross-department communication work inside large organizations.
+
+I'm now going deeper into **large language models (LLMs)**: how they are trained and fine-tuned, and how to run them efficiently. I want to connect operations research and optimization with applied AI.
 
 ## Experience
 
-**Production Intern, Shell** · Jul–Aug 2026
-Worked on-site in production operations at a global energy company.
+### Production Intern · Shell
+*Jul – Aug 2026*
+- Worked on-site in production operations at a global energy company.
+- Applied an industrial engineering lens to day-to-day workflows: where work waits, where information gets lost, where a process can be simplified.
 
-**Business Development Intern, Derimod** · Mar–May 2026 · Istanbul
-End-to-end analysis of business processes, reporting, and coordination across departments in a corporate setting.
+### Business Development Intern · Derimod
+*Mar – May 2026 · Istanbul*
+- Supported the business development department of a Turkish fashion and leather retail brand.
+- Analyzed business processes end to end and helped set up reporting standards.
+- Coordinated communication between departments and turned operational data into inputs for decisions.
 
-**Engineering Intern, Timsan GSE** · Jul–Aug 2024 · Istanbul
-Manufacturing engineering internship at a ground support equipment manufacturer.
+### Engineering Intern · Timsan GSE
+*Jul – Aug 2024 · Istanbul*
+- Engineering internship in manufacturing engineering at a ground support equipment manufacturer.
+- First hands-on experience of how engineering work is organized in a production environment.
 
 ## Education
 
 | University | Program | Graduated |
 |---|---|---|
 | Bahçeşehir University | B.Sc. Industrial Engineering | 2026 |
-| Kocaeli University | Computer Programming (Associate) | 2021 |
+| Kocaeli University | Associate Degree, Computer Programming | 2021 |
 
 ## Skills
 
-**Engineering and analytics**
-Process Optimization · Operations Research and Decision Modeling · Supply Chain Management · Business Development · Project Management · Statistics and Data Analysis · UI/UX Thinking
+**Industrial engineering and analytics**
+Process Optimization · Operations Research · Decision Modeling · Supply Chain Management · Production Planning · Business Development · Project Management · Statistics and Data Analysis · Reporting and Decision Support · UI/UX Thinking
 
 **Programming**
 
@@ -54,15 +63,15 @@ Process Optimization · Operations Research and Decision Modeling · Supply Chai
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Currently learning
+## Currently learning: LLMs and applied AI
 
-- Training and fine-tuning LLMs
+- Training and fine-tuning large language models
 - Inference optimization: quantization, batching, efficient serving
 - Building practical tools on top of language models
 
 ## Featured project
 
-**[WinLoud](https://github.com/Maslyon/WinLoud)** is a free, open-source system-wide sound booster and equalizer for Windows 10/11, built with C#, WPF and WASAPI. It has a 10-band EQ, bass boost and a distortion-safe limiter.
+**[WinLoud](https://github.com/Maslyon/WinLoud)** is a free, open-source system-wide sound booster and equalizer for Windows 10/11, built with C#, WPF and WASAPI. It has a 10-band equalizer, bass boost and a distortion-safe limiter.
 
 I keep my other projects private until they are reliable enough for other people to depend on.
 
